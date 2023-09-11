@@ -27,8 +27,8 @@
       "@posture/home": [
         "libs/home/src/index.ts"
       ],
-      "@posture/data-access": [
-        "libs/data-access/src/index.ts"
+      "@posture/data-services": [
+        "libs/data-services/src/index.ts"
       ]
     }
   },
