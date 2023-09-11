@@ -26,6 +26,9 @@
       ],
       "@posture/home": [
         "libs/home/src/index.ts"
+      ],
+      "@posture/data-models": [
+        "libs/data-models/src/index.ts"
       ]
     }
   },
